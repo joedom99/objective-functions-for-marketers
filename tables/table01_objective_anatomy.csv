@@ -1,0 +1,5 @@
+Part,The question it answers,Budget example
+Decision variables,What can we change?,"Monthly spend in Search, Social, and Display"
+Objective function,"What does ""best"" mean?",Maximize profit
+Constraints,What rules must the answer follow?,"Total spend of $60,000 or less; CPA of $20 or less"
+Utility (for multiple goals),How much do we value each outcome?,"Objective = 70% weight on profit, 30% on conversions"

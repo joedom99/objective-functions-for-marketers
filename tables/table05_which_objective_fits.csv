@@ -1,0 +1,7 @@
+Business situation,Objective that fits,In this simulation,Watch out for
+Building a customer base quickly,Maximize conversions,"2,430 conversions, $54,587 profit",Cheap conversions can be low-value customers
+Growing top-line sales,Maximize revenue,"$259,503 revenue, $56,777 profit",Revenue can rise while margins shrink
+Protecting profitability,Maximize contribution profit,"$59,875 profit, $14,975 left unspent",Underinvesting in long-term growth
+Balancing growth and profitability,Weighted utility of profit and conversions,"Even blend: 2,371 conversions, $57,687 profit",The weights are a judgment call
+Honoring a contract or brand commitment,Maximize profit with a spending constraint,"$25k on Display gives up $4,853 a month in profit",Commitments that no longer pay for themselves
+Meeting a client's KPI target,Maximize profit with a CPA or ROAS constraint,A $20 CPA target gives up $148 a month in profit,Treating the target as the goal
