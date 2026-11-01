@@ -1,5 +1,7 @@
 # Objective Functions for Marketers
 
+## NOTE - Still under development ##
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joedom99/objective-functions-for-marketers/blob/main/objective_functions_for_marketers.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
