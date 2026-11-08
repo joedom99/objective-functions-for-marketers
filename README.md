@@ -1,7 +1,5 @@
 # Objective Functions for Marketers
 
-## NOTE - Still under development ##
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joedom99/objective-functions-for-marketers/blob/main/objective_functions_for_marketers.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -11,7 +9,7 @@
 ![Method: Optimization](https://img.shields.io/badge/Method-Optimization-f58235)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Companion notebook for the Marketing Data Science article **"Objective Functions for Marketers: How Models Decide What 'Best' Means."**
+Companion notebook for the Marketing Data Science article **["Objective Functions for Marketers: How Models Decide What 'Best' Means."](https://blog.marketingdatascience.ai/objective-functions-for-marketers-how-models-decide-what-best-means-b737f1705d6b)**
 
 ![The frontier of best possible plans](figures/fig06_utility_frontier.png)
 
